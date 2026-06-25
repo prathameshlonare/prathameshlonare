@@ -227,8 +227,8 @@ B.Tech CSE graduate specialized in **AWS cloud infrastructure** with hands-on ex
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prathameshlonare&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B192C&title_color=FF9900&text_color=E6EDF3&icon_color=FF9900&border_color=1E3A5F&rank_icon=default">
-    <img src="https://github-readme-stats.vercel.app/api?username=prathameshlonare&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B192C&title_color=FF9900&text_color=E6EDF3&icon_color=FF9900&border_color=1E3A5F" height="180">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prathameshlonare&show_icons=true&hide_border=true&bg_color=0B192C&title_color=FF9900&text_color=E6EDF3&icon_color=FF9900&border_color=1E3A5F&rank_icon=default">
+    <img src="https://github-readme-stats.vercel.app/api?username=prathameshlonare&show_icons=true&hide_border=true&bg_color=0B192C&title_color=FF9900&text_color=E6EDF3&icon_color=FF9900&border_color=1E3A5F" height="180">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app?user=prathameshlonare&theme=dark&hide_border=true&background=0B192C&ring=FF9900&fire=FF9900&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=FF9900&sideLabel=8892B0&dates=8892B0">
