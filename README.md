@@ -248,7 +248,7 @@ B.Tech CSE graduate specialized in **AWS cloud infrastructure** with hands-on ex
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prathameshlonare&theme=darkhub&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=false" alt="Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=prathameshlonare&theme=onedark&column=7&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="Trophies">
   </a>
 </p>
 
@@ -304,9 +304,9 @@ B.Tech CSE graduate specialized in **AWS cloud infrastructure** with hands-on ex
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/prathameshlonare/prathameshlonare/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/prathameshlonare/prathameshlonare/blob/output/github-contribution-grid-snake.svg">
-    <img src="https://github.com/prathameshlonare/prathameshlonare/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathameshlonare/prathameshlonare/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathameshlonare/prathameshlonare/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/prathameshlonare/prathameshlonare/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" style="max-width: 100%; width: 100%;">
   </picture>
 </p>
 
