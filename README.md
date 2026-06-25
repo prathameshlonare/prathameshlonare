@@ -19,7 +19,7 @@
 
 <!-- ── 3. INFO BADGES ROW ── -->
   <a href="#"><img src="https://img.shields.io/badge/Degree-B.Tech%20CSE-FF9900?style=flat-square&labelColor=0B192C" alt="Degree"></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/College-Rajiv%20Gandhi%20COE-FF9900?style=flat-square&labelColor=0B192C" alt="College"></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/College-RCERT-FF9900?style=flat-square&labelColor=0B192C" alt="College"></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Location-Akot%2C%20India-FF9900?style=flat-square&labelColor=0B192C" alt="Location"></a>
 
 <br>
@@ -72,25 +72,27 @@ B.Tech CSE graduate specialized in **AWS cloud infrastructure** with hands-on ex
 ## `$ which --tech`
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,azure,terraform,docker,githubactions,git,linux,python,bash,kubernetes&perline=10&theme=dark">
-      <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,githubactions,git,linux,python,bash,kubernetes&perline=10&theme=dark">
-    </picture>
-  </a>
+  <b>Cloud &amp; IaC</b><br>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0B192C" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure-FF9900?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=0B192C" alt="Azure">
+  <img src="https://img.shields.io/badge/Terraform-FF9900?style=flat-square&logo=terraform&logoColor=white&labelColor=0B192C" alt="Terraform">
+  <img src="https://img.shields.io/badge/Docker-FF9900?style=flat-square&logo=docker&logoColor=white&labelColor=0B192C" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-FF9900?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0B192C" alt="Kubernetes">
 </p>
 
 <p align="center">
-  <code>AWS</code> ·
-  <code>Azure</code> ·
-  <code>Terraform</code> ·
-  <code>Docker</code> ·
-  <code>GitHub Actions</code> ·
-  <code>Git</code> ·
-  <code>Linux</code> ·
-  <code>Python</code> ·
-  <code>Bash</code> ·
-  <code>Kubernetes</code>
+  <b>DevOps &amp; Automation</b><br>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-FF9900?style=flat-square&logo=githubactions&logoColor=white&labelColor=0B192C" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Git-FF9900?style=flat-square&logo=git&logoColor=white&labelColor=0B192C" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FF9900?style=flat-square&logo=linux&logoColor=white&labelColor=0B192C" alt="Linux">
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=awscloudformation&logoColor=white&labelColor=0B192C" alt="CloudFormation">
+</p>
+
+<p align="center">
+  <b>Languages</b><br>
+  <img src="https://img.shields.io/badge/Python-FF9900?style=flat-square&logo=python&logoColor=white&labelColor=0B192C" alt="Python">
+  <img src="https://img.shields.io/badge/Bash-FF9900?style=flat-square&logo=gnubash&logoColor=white&labelColor=0B192C" alt="Bash">
+  <img src="https://img.shields.io/badge/REST%20APIs-FF9900?style=flat-square&logo=postman&logoColor=white&labelColor=0B192C" alt="REST APIs">
 </p>
 
 <br>
@@ -209,7 +211,7 @@ B.Tech CSE graduate specialized in **AWS cloud infrastructure** with hands-on ex
 ## `$ echo $EDUCATION`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20CSE%20%E2%80%93%20Rajiv%20Gandhi%20College%20of%20Engineering-FF9900?style=for-the-badge&labelColor=0B192C" alt="Education">
+  <img src="https://img.shields.io/badge/B.Tech%20CSE%20%E2%80%93%20Rajiv%20Gandhi%20College%20of%20Engineering,%20Research%20&%20Technology-FF9900?style=for-the-badge&labelColor=0B192C" alt="Education">
 </p>
 
 <p align="center">
@@ -243,13 +245,14 @@ B.Tech CSE graduate specialized in **AWS cloud infrastructure** with hands-on ex
 
 <br>
 
-<!-- ── 16. TROPHIES ── -->
-## `$ ./trophies.sh`
+<!-- ── 16. GITHUB STATS ROW ── -->
+## `$ gh stats`
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prathameshlonare&theme=onedark&column=7&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="Trophies">
-  </a>
+  <img src="https://img.shields.io/github/stars/prathameshlonare?style=flat-square&label=Total%20Stars&color=FF9900&labelColor=0B192C" alt="Stars">
+  <img src="https://img.shields.io/github/followers/prathameshlonare?style=flat-square&label=Followers&color=FF9900&labelColor=0B192C" alt="Followers">
+  <img src="https://img.shields.io/github/last-commit/prathameshlonare/prathameshlonare?style=flat-square&label=Last%20Updated&color=FF9900&labelColor=0B192C" alt="Last Updated">
+  <img src="https://img.shields.io/github/repo-size/prathameshlonare/prathameshlonare?style=flat-square&label=Repo%20Size&color=FF9900&labelColor=0B192C" alt="Repo Size">
 </p>
 
 <br>
