@@ -101,7 +101,6 @@ B.Tech CSE graduate specialized in **AWS cloud infrastructure** with hands-on ex
   <img src="https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=awsiam&logoColor=white&labelColor=0B192C" alt="IAM">
   <img src="https://img.shields.io/badge/Cognito-FF9900?style=flat-square&logo=amazoncognito&logoColor=white&labelColor=0B192C" alt="Cognito">
   <img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0B192C" alt="VPC">
-  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=awscloudformation&logoColor=white&labelColor=0B192C" alt="CloudFormation">
   <img src="https://img.shields.io/badge/Boto3-FF9900?style=flat-square&logo=python&logoColor=white&labelColor=0B192C" alt="Boto3">
 </p>
 
@@ -219,7 +218,6 @@ B.Tech CSE graduate specialized in **AWS cloud infrastructure** with hands-on ex
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prathameshlonare&show_icons=true&hide_border=true&bg_color=0B192C&title_color=FF9900&text_color=E6EDF3&icon_color=FF9900&border_color=1E3A5F&rank_icon=default">
     <img src="https://github-readme-stats.vercel.app/api?username=prathameshlonare&show_icons=true&hide_border=true&bg_color=0B192C&title_color=FF9900&text_color=E6EDF3&icon_color=FF9900&border_color=1E3A5F" height="180">
-  </picture>
   </picture>
 </p>
 
