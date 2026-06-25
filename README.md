@@ -73,26 +73,16 @@ B.Tech CSE graduate specialized in **AWS cloud infrastructure** with hands-on ex
 
 <p align="center">
   <b>Cloud &amp; IaC</b><br>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0B192C" alt="AWS">
-  <img src="https://img.shields.io/badge/Azure-FF9900?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=0B192C" alt="Azure">
-  <img src="https://img.shields.io/badge/Terraform-FF9900?style=flat-square&logo=terraform&logoColor=white&labelColor=0B192C" alt="Terraform">
-  <img src="https://img.shields.io/badge/Docker-FF9900?style=flat-square&logo=docker&logoColor=white&labelColor=0B192C" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-FF9900?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0B192C" alt="Kubernetes">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes&perline=5&theme=dark" alt="Cloud & IaC">
+  </a>
 </p>
 
 <p align="center">
-  <b>DevOps &amp; Automation</b><br>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-FF9900?style=flat-square&logo=githubactions&logoColor=white&labelColor=0B192C" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Git-FF9900?style=flat-square&logo=git&logoColor=white&labelColor=0B192C" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-FF9900?style=flat-square&logo=linux&logoColor=white&labelColor=0B192C" alt="Linux">
-  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=awscloudformation&logoColor=white&labelColor=0B192C" alt="CloudFormation">
-</p>
-
-<p align="center">
-  <b>Languages</b><br>
-  <img src="https://img.shields.io/badge/Python-FF9900?style=flat-square&logo=python&logoColor=white&labelColor=0B192C" alt="Python">
-  <img src="https://img.shields.io/badge/Bash-FF9900?style=flat-square&logo=gnubash&logoColor=white&labelColor=0B192C" alt="Bash">
-  <img src="https://img.shields.io/badge/REST%20APIs-FF9900?style=flat-square&logo=postman&logoColor=white&labelColor=0B192C" alt="REST APIs">
+  <b>DevOps &amp; Languages</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=githubactions,git,linux,python,bash&perline=5&theme=dark" alt="DevOps & Languages">
+  </a>
 </p>
 
 <br>
