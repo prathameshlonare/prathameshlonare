@@ -58,7 +58,7 @@
 ROLE="Cloud / DevOps Engineer (Fresher)"
 DOMAIN="Cloud Infrastructure · Serverless · DevOps"
 STACK="AWS · Terraform · Docker · CI/CD · Linux · Python"
-EDUCATION="B.Tech CSE — Rajiv Gandhi College of Engineering"
+EDUCATION="B.Tech CSE — Rajiv Gandhi College of Engineering, Research & Technology, Chandrapur."
 OPEN_TO="Cloud Engineer · DevOps Engineer · Infrastructure Roles"
 
 echo "Building reliable cloud infrastructure, one resource at a time."
@@ -143,7 +143,7 @@ B.Tech CSE graduate specialized in **AWS cloud infrastructure** with hands-on ex
 | **Scale** | Serverless multi-tier platform · 6 REST endpoints · 3 CloudFormation stacks |
 | **Impact** | 80% cost reduction vs EC2 · Single-command deployments · Production monitoring |
 | **Role** | Backend Engineer |
-| **Links** | [GitHub](https://github.com/prathamesh-lonare/housing-finder) |
+| **Links** | [GitHub](https://github.com/prathameshlonare/Dorm-and-Dish) |
 
 </details>
 
@@ -304,9 +304,9 @@ B.Tech CSE graduate specialized in **AWS cloud infrastructure** with hands-on ex
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathameshlonare/prathameshlonare/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathameshlonare/prathameshlonare/output/snake.svg">
-    <img src="https://raw.githubusercontent.com/prathameshlonare/prathameshlonare/output/snake.svg" alt="Snake animation">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/prathameshlonare/prathameshlonare/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/prathameshlonare/prathameshlonare/blob/output/github-contribution-grid-snake.svg">
+    <img src="https://github.com/prathameshlonare/prathameshlonare/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
   </picture>
 </p>
 
