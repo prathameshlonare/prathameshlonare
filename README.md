@@ -131,8 +131,8 @@ flowchart LR
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/prathameshlonare/prathameshlonare/pull/1) in [prathameshlonare/prathameshlonare](https://github.com/prathameshlonare/prathameshlonare)
-2. 💪 Opened PR [#1](https://github.com/prathameshlonare/prathameshlonare/pull/1) in [prathameshlonare/prathameshlonare](https://github.com/prathameshlonare/prathameshlonare)
+1. ❗ Opened issue [#1](https://github.com/vaibhavmanch3kar/maharashtra-st-timetable/issues/1) in [vaibhavmanch3kar/maharashtra-st-timetable](https://github.com/vaibhavmanch3kar/maharashtra-st-timetable)
+2. ❗ Opened issue [#46](https://github.com/cookingconvertertools-web/msrtc-bus-timetable/issues/46) in [cookingconvertertools-web/msrtc-bus-timetable](https://github.com/cookingconvertertools-web/msrtc-bus-timetable)
 3. 🔒 Closed issue [#5](https://github.com/JaydeepGadhiya/github-badges-achievements/issues/5) in [JaydeepGadhiya/github-badges-achievements](https://github.com/JaydeepGadhiya/github-badges-achievements)
 4. ❗ Opened issue [#5](https://github.com/JaydeepGadhiya/github-badges-achievements/issues/5) in [JaydeepGadhiya/github-badges-achievements](https://github.com/JaydeepGadhiya/github-badges-achievements)
 5. 🗣 Commented on [#2281](https://github.com/vercel-labs/skills/issues/2281#issuecomment-5802604917) in [vercel-labs/skills](https://github.com/vercel-labs/skills)
